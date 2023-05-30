@@ -1,5 +1,5 @@
 ![Untitled(1)](https://github.com/KiranRathoreGitHub/KiranRathoreGitHub/assets/134756457/85a54a2b-cd41-4d4e-8ed5-4e752d1a1c83)<h1 align="center">Hi 👋, I'm Kiran Rathore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">A passionate frontend developer from India</h2>
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="coding" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranrathoregithub&label=Profile%20views&color=0e75b6&style=flat" alt="kiranrathoregithub" /> </p>
 
@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranrathoregithub&show_icons=true&locale=en&layout=compact" alt="kiranrathoregithub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranrathoregithub&show_icons=true&locale=en" alt="kiranrathoregithub" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kiranrathoregithub&show_icons=true&locale=en" alt="kiranrathoregithub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranrathoregithub&" alt="kiranrathoregithub" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranrathoregithub&" alt="kiranrathoregithub" /></p>
 
